@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     #DataFlair CRUD Application
-    'book'
+    'book',
+    `libraryapp`
 ]
 
 MIDDLEWARE = [
